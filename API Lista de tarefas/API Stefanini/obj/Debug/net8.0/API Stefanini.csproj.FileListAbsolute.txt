@@ -1,0 +1,47 @@
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/appsettings.Development.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/appsettings.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/API Stefanini
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/API Stefanini.deps.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/API Stefanini.runtimeconfig.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/API Stefanini.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/API Stefanini.pdb
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Npgsql.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.csproj.AssemblyReference.cache
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.AssemblyInfoInputs.cache
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.AssemblyInfo.cs
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.csproj.CoreCompileInputs.cache
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.MvcApplicationPartsAssemblyInfo.cs
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.MvcApplicationPartsAssemblyInfo.cache
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets.build.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets.development.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets/msbuild.API Stefanini.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets/msbuild.build.API Stefanini.props
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API Stefanini.props
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API Stefanini.props
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/scopedcss/bundle/API Stefanini.styles.css
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stef.69199B0B.Up2Date
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/refint/API Stefanini.dll
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.pdb
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/API Stefanini.genruntimeconfig.cache
+/Users/adm/RiderProjects/API Stefanini/API Stefanini/obj/Debug/net8.0/ref/API Stefanini.dll
